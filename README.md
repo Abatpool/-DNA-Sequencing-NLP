@@ -1,1 +1,1 @@
-# DNA-Sequencing-NLP
+# DNA Sequencing With Multinomial Naive Bayes Classifier
