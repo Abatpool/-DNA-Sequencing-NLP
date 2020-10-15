@@ -1,1 +1,1 @@
-# -DNA-Sequencing-NLP
+# DNA-Sequencing-NLP
